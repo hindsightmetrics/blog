@@ -21,7 +21,7 @@ On the other hand, we also strive to make code simple to read and understand. If
 
 While on a project, I had Class A and duplicated almost all of it into class B. The code followed the same pattern: prep for an API call, make the API call, then get the response back and map it back to a domain object. The target API does almost the same thing, only in a different context, thus its client expects a slightly different request.
 
-![Abstract classes to represent difference in code](https://hindsightmetrics.github.io/blog/posts/why-kiss-is-sometimes-better-than-dry.md/blog/assets/img/posts/kissvsdry.png)
+![Abstract classes to represent difference in code](https://https://github.com/hindsightmetrics/blog/blob/main/assets/img/posts/kissvsdry.png)
 {: .shadow}
 
 The blue lines of the diagram are set up to call the API. This could be a prime example to apply DRY.
