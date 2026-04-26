@@ -127,7 +127,7 @@ public class Circle
         }
     }
 }
-```csharp
+```
 
 What if we now need to change the radius of the circle? We can add a `setter`, and call it a day right? Well, we also have to reset the value for the perimeter and area fields so we recalculate when `Perimeter` and `Area` get called:
 
