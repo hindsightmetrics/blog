@@ -69,7 +69,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: hindsightmetrics
 
 # Prefer color scheme setting.
 #
@@ -132,7 +132,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: false # The option for PWA feature (installable)
+  enabled: true # The option for PWA feature (installable)
   cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
