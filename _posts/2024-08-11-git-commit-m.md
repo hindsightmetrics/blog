@@ -1,5 +1,5 @@
 ---
-title: "git commit \-m `feat: new blog post`"
+title: git commit feat new blog post
 date: 2024-08-11 12:00:00 -0700
 categories: [Software Engineering, git]
 tags: [commits]
