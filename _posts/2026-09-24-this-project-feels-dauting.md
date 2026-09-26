@@ -5,6 +5,9 @@ categories: [Software Engineering, Design Patterns]
 tags: [software engineering]
 ---
 
+![Diagram of a Solution](/assets/img/posts/daunting.png)
+{: .shadow}
+
 ## Introduction
 
 Some projects can feel scary due to their size or moving parts, and the feeling gets worse when you begin to design them. It happened to me recently; I was designing a new project and while adding more boxes, databases, arrows, etc., I started to feel that completing it was unreachable. Daunting.
@@ -24,5 +27,9 @@ Now that you know what the core of the functionality is, you can focus on that a
 ## Add supporting services
 
 Now you can add all the supporting services or infrastructure. Do you want to add caching? Go ahead. Need a queue to optimally process many hashtags at the same time? Good!
+
+## Conclusion
+
+Taking that large diagram piece by piece is a way to make things digestible. If looking at the whole thing makes the project feel unattainable, split it into phases and focus on one phase at a time. Start with the core, and suddenly it's not so daunting.
 
 [^1]: I know that the term originally came from Twitter.
