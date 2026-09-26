@@ -1,11 +1,11 @@
 ---
 title: What to do with a Daunting Project
 date: 2026-09-24 12:00:00 -0700
-categories: [Software Engineering, Design Patterns]
-tags: [software engineering]
+categories: [Software Engineering, Architecture]
+tags: [architecture, planning]
 ---
 
-![Diagram of a Solution](/assets/img/posts/daunting.png)
+![_Too many boxes, too many arrows_](/assets/img/posts/daunting.png)
 {: .shadow}
 
 ## Introduction
