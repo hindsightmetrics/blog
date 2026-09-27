@@ -5,7 +5,8 @@ categories: [Software Engineering, Architecture]
 tags: [architecture, planning]
 ---
 
-![_Too many boxes, too many arrows_](/assets/img/posts/daunting.png)
+![Diagram of a complex system](/assets/img/posts/daunting.png)
+_Too many boxes, too many arrows_
 {: .shadow}
 
 ## Introduction
